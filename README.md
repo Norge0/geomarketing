@@ -1,2 +1,8 @@
 # Geomarketing
-Unidade curricular de Geomarketing da UL IGOT
+Unidade curricular - Geomarketing 2020/21 da UL IGOT
+Mestrado SIGMTAO do IGOT-Universidade de Lisboa
+
+<h3>WebSIG APP</h3><p></p>
+Trabalho prático final (versão de conjunto)<br>
+Unidade Curricular - WebSIG 2019/20 do Mestrado SIGMTAO do IGOT-UL<p></p>
+<img src="websig_github.png" alt="image" width="" height="500">
