@@ -1,5 +1,5 @@
-# Geomarketing
-Unidade curricular - Geomarketing 2020/21<br>
+# Dados Geodemográficos
+Unidade curricular - <B>Geomarketing</B> 2020/21<br>
 Mestrado em Sistemas de Informação Geográfica e Modelação Territorial Aplicados ao Ordenamento<br>
 Instituto de Geografia e Ordenamento do Território IGOT
 Universidade de Lisboa<br>
