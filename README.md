@@ -1,10 +1,11 @@
 # Geomarketing
 Trabalho 2<br>
 Unidade curricular - Geomarketing 2020/21<br>
-Mestrado SIGMTAO do IGOT-Universidade de Lisboa<p></p>
+Mestrado em Sistemas de Informação Geográfica e Modelação Territorial Aplicados ao Ordenamento<br>
+Instituto de Geografia e Ordenamento do Território IGOT
+Universidade de Lisboa<br>
+<p></p>
 <img src="trab2_presentation1.png" alt="image" width="" height="500">
+<p></p>
+<img src="trab2_presentation2.png" alt="image" width="" height="500">
 
-<h3>WebSIG APP</h3><p></p>
-
-Unidade Curricular - WebSIG 2019/20 do Mestrado SIGMTAO do IGOT-UL<p></p>
-<img src="websig_github.png" alt="image" width="" height="500">
