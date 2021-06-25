@@ -8,3 +8,4 @@ Universidade de Lisboa<br>
 <p></p>
 <img src="trab2_presentation2.png" alt="image" width="" height="500">
 
+https://norge0.github.io/geomarketing/
