@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "sql_statement",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "identifier": "14", "lado": "A" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -9.200157, 38.752477 ] ] } },
+{ "type": "Feature", "properties": { "identifier": "28", "lado": "B" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -9.141277, 38.752477 ] ] } }
+]
+}
